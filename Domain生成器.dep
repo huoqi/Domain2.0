@@ -1,0 +1,21 @@
+# Microsoft Developer Studio Generated Dependency File, included by Domain生成器.mak
+
+".\Domain生成器.cpp" : \
+	".\Domain生成器.h"\
+	".\Domain生成器Dlg.h"\
+	
+
+".\Domain生成器.rc" : \
+	".\res\Domain生成器.ico"\
+	".\res\Domain生成器.rc2"\
+	
+
+".\Domain生成器Dlg.cpp" : \
+	".\Domain生成器.h"\
+	".\Domain生成器Dlg.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
